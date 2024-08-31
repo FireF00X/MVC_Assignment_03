@@ -1,0 +1,15 @@
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\bin\Debug\net8.0\Company.Reposatory.deps.json
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\bin\Debug\net8.0\Company.Reposatory.dll
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\bin\Debug\net8.0\Company.Reposatory.pdb
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\bin\Debug\net8.0\Company.Data.dll
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\bin\Debug\net8.0\Company.Data.pdb
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company.Reposatory.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company.Reposatory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company.Reposatory.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company.Reposatory.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company.Reposatory.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company..79582CC4.Up2Date
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company.Reposatory.dll
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\refint\Company.Reposatory.dll
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\Company.Reposatory.pdb
+C:\Users\Pc\source\repos\Assignment_MVC_03\Company.Reposatory\obj\Debug\net8.0\ref\Company.Reposatory.dll
